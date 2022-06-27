@@ -1,0 +1,20 @@
+.converterBox {
+    margin-top: 90px;
+}
+.inputWrapper {
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 70px 30px;
+    background-color: #f1f4f8;
+    box-shadow: rgb(35 55 80 / 30%) 0px 6px 12px;
+    text-align: center;
+}
+
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .btn {
+      padding-top: 10px;
+  }
